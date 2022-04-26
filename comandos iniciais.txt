@@ -1,0 +1,28 @@
+dotnet new console
+dotnet build
+dotnet run
+
+dotnet --version
+para verificar qual a versão do .net 5
+
+using System;
+
+namespace helloworld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Digite o seu nome:");
+
+            var nome = Console.ReadLine();
+
+            Console.WriteLine("Bem vindo " + nome);
+
+            Console.ReadKey();
+
+        }
+    }
+}
