@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\Checklist.exe
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\Checklist.deps.json
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\Checklist.runtimeconfig.json
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\Checklist.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\Checklist.dll
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\ref\Checklist.dll
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\bin\Debug\net5.0\Checklist.pdb
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.dll
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\ref\Checklist.dll
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.pdb
+C:\Users\Aluno\Desktop\Teste aulas\Aulas_C_Rafael\Checklist\obj\Debug\net5.0\Checklist.genruntimeconfig.cache
