@@ -1,3 +1,0 @@
-&& = AND
-|| = OR nome do símbolo || é "pipe"
-! = NOT
