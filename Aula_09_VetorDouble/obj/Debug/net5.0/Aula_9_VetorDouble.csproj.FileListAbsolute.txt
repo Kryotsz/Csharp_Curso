@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\Aula_9_VetorDouble.exe
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\Aula_9_VetorDouble.deps.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\Aula_9_VetorDouble.runtimeconfig.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\Aula_9_VetorDouble.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\Aula_9_VetorDouble.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\ref\Aula_9_VetorDouble.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\bin\Debug\net5.0\Aula_9_VetorDouble.pdb
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\ref\Aula_9_VetorDouble.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.pdb
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_9_VetorDouble\obj\Debug\net5.0\Aula_9_VetorDouble.genruntimeconfig.cache
