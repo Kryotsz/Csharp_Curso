@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\bin\Debug\net6.0\ex02.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\bin\Debug\net6.0\ex02.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\bin\Debug\net6.0\ex02.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\bin\Debug\net6.0\ex02.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\bin\Debug\net6.0\ex02.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\refint\ex02.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ex02.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula24\Exercicios\ex02\ex02\obj\Debug\net6.0\ref\ex02.dll

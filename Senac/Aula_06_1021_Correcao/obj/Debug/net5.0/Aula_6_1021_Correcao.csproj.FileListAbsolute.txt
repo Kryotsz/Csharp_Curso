@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\Aula_6_1021_Correcao.exe
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\Aula_6_1021_Correcao.deps.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\Aula_6_1021_Correcao.runtimeconfig.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\Aula_6_1021_Correcao.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\Aula_6_1021_Correcao.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\ref\Aula_6_1021_Correcao.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\bin\Debug\net5.0\Aula_6_1021_Correcao.pdb
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\ref\Aula_6_1021_Correcao.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.pdb
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_6_1021_Correcao\obj\Debug\net5.0\Aula_6_1021_Correcao.genruntimeconfig.cache

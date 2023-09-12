@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\bin\Debug\net7.0\SemPOO.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\bin\Debug\net7.0\SemPOO.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\bin\Debug\net7.0\SemPOO.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\bin\Debug\net7.0\SemPOO.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\bin\Debug\net7.0\SemPOO.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\refint\SemPOO.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\SemPOO.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula38\SemPOO\SemPOO\obj\Debug\net7.0\ref\SemPOO.dll

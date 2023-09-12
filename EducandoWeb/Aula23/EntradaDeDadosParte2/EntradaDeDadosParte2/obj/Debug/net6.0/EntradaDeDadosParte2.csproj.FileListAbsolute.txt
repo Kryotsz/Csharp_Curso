@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\bin\Debug\net6.0\EntradaDeDadosParte2.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\bin\Debug\net6.0\EntradaDeDadosParte2.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\bin\Debug\net6.0\EntradaDeDadosParte2.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\bin\Debug\net6.0\EntradaDeDadosParte2.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\bin\Debug\net6.0\EntradaDeDadosParte2.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\refint\EntradaDeDadosParte2.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\EntradaDeDadosParte2.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula23\EntradaDeDadosParte2\EntradaDeDadosParte2\obj\Debug\net6.0\ref\EntradaDeDadosParte2.dll

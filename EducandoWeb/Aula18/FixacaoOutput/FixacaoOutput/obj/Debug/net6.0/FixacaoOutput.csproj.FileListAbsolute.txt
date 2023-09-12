@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\bin\Debug\net6.0\FixacaoOutput.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\bin\Debug\net6.0\FixacaoOutput.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\bin\Debug\net6.0\FixacaoOutput.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\bin\Debug\net6.0\FixacaoOutput.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\bin\Debug\net6.0\FixacaoOutput.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\refint\FixacaoOutput.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\FixacaoOutput.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula18\FixacaoOutput\FixacaoOutput\obj\Debug\net6.0\ref\FixacaoOutput.dll

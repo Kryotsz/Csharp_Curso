@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\Aula_8_Exec1.exe
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\Aula_8_Exec1.deps.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\Aula_8_Exec1.runtimeconfig.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\Aula_8_Exec1.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\Aula_8_Exec1.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\ref\Aula_8_Exec1.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\bin\Debug\net5.0\Aula_8_Exec1.pdb
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\ref\Aula_8_Exec1.dll
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.pdb
+C:\Users\Aluno\Desktop\INF9 teste aulas\Aulas_C_Rafael\Aula_8_Exec1\obj\Debug\net5.0\Aula_8_Exec1.genruntimeconfig.cache

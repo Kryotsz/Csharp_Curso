@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\refint\Funcoes.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula30\Funcoes\Funcoes\obj\Debug\net6.0\ref\Funcoes.dll

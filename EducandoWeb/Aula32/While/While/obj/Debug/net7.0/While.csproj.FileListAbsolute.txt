@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\bin\Debug\net7.0\While.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\bin\Debug\net7.0\While.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\bin\Debug\net7.0\While.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\bin\Debug\net7.0\While.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\bin\Debug\net7.0\While.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\refint\While.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\While.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Curso C#\Aula32\While\While\obj\Debug\net7.0\ref\While.dll
