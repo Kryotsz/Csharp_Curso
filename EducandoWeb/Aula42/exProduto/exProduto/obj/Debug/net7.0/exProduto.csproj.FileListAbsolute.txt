@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\bin\Debug\net7.0\exProduto.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\bin\Debug\net7.0\exProduto.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\bin\Debug\net7.0\exProduto.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\bin\Debug\net7.0\exProduto.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\bin\Debug\net7.0\exProduto.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\refint\exProduto.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\exProduto.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula42\exProduto\exProduto\obj\Debug\net7.0\ref\exProduto.dll

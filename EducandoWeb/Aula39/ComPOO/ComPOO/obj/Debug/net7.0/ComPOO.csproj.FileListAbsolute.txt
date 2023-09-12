@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\bin\Debug\net7.0\ComPOO.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\bin\Debug\net7.0\ComPOO.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\bin\Debug\net7.0\ComPOO.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\bin\Debug\net7.0\ComPOO.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\bin\Debug\net7.0\ComPOO.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\refint\ComPOO.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ComPOO.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula39\ComPOO\ComPOO\obj\Debug\net7.0\ref\ComPOO.dll
