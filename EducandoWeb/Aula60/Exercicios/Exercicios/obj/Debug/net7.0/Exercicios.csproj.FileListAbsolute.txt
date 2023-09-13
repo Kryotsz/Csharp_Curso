@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\bin\Debug\net7.0\Exercicios.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\bin\Debug\net7.0\Exercicios.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\bin\Debug\net7.0\Exercicios.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\bin\Debug\net7.0\Exercicios.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\bin\Debug\net7.0\Exercicios.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\refint\Exercicios.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\Exercicios.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula60\Exercicios\Exercicios\obj\Debug\net7.0\ref\Exercicios.dll

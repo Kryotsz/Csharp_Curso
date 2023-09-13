@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\bin\Debug\net7.0\AutoProperties.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\bin\Debug\net7.0\AutoProperties.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\bin\Debug\net7.0\AutoProperties.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\bin\Debug\net7.0\AutoProperties.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\bin\Debug\net7.0\AutoProperties.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\refint\AutoProperties.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\AutoProperties.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula57\AutoProperties\AutoProperties\obj\Debug\net7.0\ref\AutoProperties.dll
