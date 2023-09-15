@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\bin\Debug\net7.0\ModificadorRef.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\bin\Debug\net7.0\ModificadorRef.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\bin\Debug\net7.0\ModificadorRef.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\bin\Debug\net7.0\ModificadorRef.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\bin\Debug\net7.0\ModificadorRef.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\refint\ModificadorRef.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ModificadorRef.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula73\ModificadorRef\ModificadorRef\obj\Debug\net7.0\ref\ModificadorRef.dll
