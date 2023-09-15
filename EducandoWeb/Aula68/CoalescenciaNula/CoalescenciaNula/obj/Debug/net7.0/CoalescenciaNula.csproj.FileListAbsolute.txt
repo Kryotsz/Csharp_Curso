@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\bin\Debug\net7.0\CoalescenciaNula.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\bin\Debug\net7.0\CoalescenciaNula.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\bin\Debug\net7.0\CoalescenciaNula.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\bin\Debug\net7.0\CoalescenciaNula.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\bin\Debug\net7.0\CoalescenciaNula.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\refint\CoalescenciaNula.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\CoalescenciaNula.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\CoalescenciaNula\CoalescenciaNula\obj\Debug\net7.0\ref\CoalescenciaNula.dll

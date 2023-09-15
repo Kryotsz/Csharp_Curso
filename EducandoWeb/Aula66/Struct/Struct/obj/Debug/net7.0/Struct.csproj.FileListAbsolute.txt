@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\bin\Debug\net7.0\Struct.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\bin\Debug\net7.0\Struct.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\bin\Debug\net7.0\Struct.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\bin\Debug\net7.0\Struct.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\bin\Debug\net7.0\Struct.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\refint\Struct.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\Struct.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula66\Struct\Struct\obj\Debug\net7.0\ref\Struct.dll

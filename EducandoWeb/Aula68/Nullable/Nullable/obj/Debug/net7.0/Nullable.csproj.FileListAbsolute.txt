@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\bin\Debug\net7.0\Nullable.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\bin\Debug\net7.0\Nullable.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\bin\Debug\net7.0\Nullable.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\bin\Debug\net7.0\Nullable.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\bin\Debug\net7.0\Nullable.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\refint\Nullable.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\Nullable.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula68\Nullable\Nullable\obj\Debug\net7.0\ref\Nullable.dll

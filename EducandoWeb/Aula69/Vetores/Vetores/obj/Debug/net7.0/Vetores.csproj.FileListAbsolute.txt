@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\bin\Debug\net7.0\Vetores.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\bin\Debug\net7.0\Vetores.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\bin\Debug\net7.0\Vetores.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\bin\Debug\net7.0\Vetores.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\bin\Debug\net7.0\Vetores.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\refint\Vetores.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\Vetores.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula69\Vetores\Vetores\obj\Debug\net7.0\ref\Vetores.dll

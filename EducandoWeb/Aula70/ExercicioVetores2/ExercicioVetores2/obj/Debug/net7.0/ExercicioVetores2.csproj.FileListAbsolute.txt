@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\bin\Debug\net7.0\ExercicioVetores2.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\bin\Debug\net7.0\ExercicioVetores2.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\bin\Debug\net7.0\ExercicioVetores2.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\bin\Debug\net7.0\ExercicioVetores2.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\bin\Debug\net7.0\ExercicioVetores2.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\refint\ExercicioVetores2.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ExercicioVetores2.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula70\ExercicioVetores2\ExercicioVetores2\obj\Debug\net7.0\ref\ExercicioVetores2.dll
