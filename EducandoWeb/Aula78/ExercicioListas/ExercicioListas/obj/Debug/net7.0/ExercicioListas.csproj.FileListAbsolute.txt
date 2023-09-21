@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\bin\Debug\net7.0\ExercicioListas.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\bin\Debug\net7.0\ExercicioListas.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\bin\Debug\net7.0\ExercicioListas.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\bin\Debug\net7.0\ExercicioListas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\bin\Debug\net7.0\ExercicioListas.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\refint\ExercicioListas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ExercicioListas.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula78\ExercicioListas\ExercicioListas\obj\Debug\net7.0\ref\ExercicioListas.dll
