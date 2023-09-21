@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\bin\Debug\net7.0\ExercicioMatriz.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\refint\ExercicioMatriz.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula81\ExercicioMatriz\ExercicioMatriz\obj\Debug\net7.0\ref\ExercicioMatriz.dll
