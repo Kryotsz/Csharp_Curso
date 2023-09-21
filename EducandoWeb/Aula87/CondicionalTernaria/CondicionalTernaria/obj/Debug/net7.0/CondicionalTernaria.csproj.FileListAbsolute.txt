@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\bin\Debug\net7.0\CondicionalTernaria.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\bin\Debug\net7.0\CondicionalTernaria.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\bin\Debug\net7.0\CondicionalTernaria.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\bin\Debug\net7.0\CondicionalTernaria.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\bin\Debug\net7.0\CondicionalTernaria.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\refint\CondicionalTernaria.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\CondicionalTernaria.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula87\CondicionalTernaria\CondicionalTernaria\obj\Debug\net7.0\ref\CondicionalTernaria.dll

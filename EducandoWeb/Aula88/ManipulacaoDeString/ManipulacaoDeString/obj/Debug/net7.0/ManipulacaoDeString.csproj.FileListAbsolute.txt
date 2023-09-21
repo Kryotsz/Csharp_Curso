@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\bin\Debug\net7.0\ManipulacaoDeString.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\bin\Debug\net7.0\ManipulacaoDeString.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\bin\Debug\net7.0\ManipulacaoDeString.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\bin\Debug\net7.0\ManipulacaoDeString.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\bin\Debug\net7.0\ManipulacaoDeString.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\refint\ManipulacaoDeString.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ManipulacaoDeString.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula88\ManipulacaoDeString\ManipulacaoDeString\obj\Debug\net7.0\ref\ManipulacaoDeString.dll
