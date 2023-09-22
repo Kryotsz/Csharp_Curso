@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\bin\Debug\net7.0\DateTime-BoasPraticas.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\bin\Debug\net7.0\DateTime-BoasPraticas.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\bin\Debug\net7.0\DateTime-BoasPraticas.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\bin\Debug\net7.0\DateTime-BoasPraticas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\bin\Debug\net7.0\DateTime-BoasPraticas.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\refint\DateTime-BoasPraticas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\DateTime-BoasPraticas.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula92\DateTime-BoasPraticas\DateTime-BoasPraticas\obj\Debug\net7.0\ref\DateTime-BoasPraticas.dll
