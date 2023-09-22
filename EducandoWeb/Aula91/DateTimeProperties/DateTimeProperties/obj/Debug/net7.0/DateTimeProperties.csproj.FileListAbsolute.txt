@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\bin\Debug\net7.0\DateTimeProperties.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\bin\Debug\net7.0\DateTimeProperties.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\bin\Debug\net7.0\DateTimeProperties.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\bin\Debug\net7.0\DateTimeProperties.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\bin\Debug\net7.0\DateTimeProperties.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\refint\DateTimeProperties.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\DateTimeProperties.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula91\DateTimeProperties\DateTimeProperties\obj\Debug\net7.0\ref\DateTimeProperties.dll

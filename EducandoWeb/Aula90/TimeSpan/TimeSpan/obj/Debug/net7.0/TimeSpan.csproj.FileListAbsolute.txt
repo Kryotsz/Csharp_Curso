@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\refint\TimeSpan.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula90\TimeSpan\TimeSpan\obj\Debug\net7.0\ref\TimeSpan.dll
