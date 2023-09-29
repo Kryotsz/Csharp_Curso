@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\bin\Debug\net7.0\Heranca.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\bin\Debug\net7.0\Heranca.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\bin\Debug\net7.0\Heranca.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\bin\Debug\net7.0\Heranca.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\bin\Debug\net7.0\Heranca.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\refint\Heranca.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\Heranca.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula135\Heranca\Heranca\obj\Debug\net7.0\ref\Heranca.dll

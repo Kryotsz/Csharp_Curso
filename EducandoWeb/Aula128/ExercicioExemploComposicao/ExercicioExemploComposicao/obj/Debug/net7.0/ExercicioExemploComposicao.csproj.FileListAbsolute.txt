@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\bin\Debug\net7.0\ExercicioExemploComposicao.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\bin\Debug\net7.0\ExercicioExemploComposicao.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\bin\Debug\net7.0\ExercicioExemploComposicao.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\bin\Debug\net7.0\ExercicioExemploComposicao.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\bin\Debug\net7.0\ExercicioExemploComposicao.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\refint\ExercicioExemploComposicao.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ExercicioExemploComposicao.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula128\ExercicioExemploComposicao\ExercicioExemploComposicao\obj\Debug\net7.0\ref\ExercicioExemploComposicao.dll

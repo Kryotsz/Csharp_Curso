@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net7.0\UpcastingDowncasting.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net7.0\UpcastingDowncasting.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net7.0\UpcastingDowncasting.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net7.0\UpcastingDowncasting.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\net7.0\UpcastingDowncasting.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\refint\UpcastingDowncasting.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula136\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\net7.0\ref\UpcastingDowncasting.dll
