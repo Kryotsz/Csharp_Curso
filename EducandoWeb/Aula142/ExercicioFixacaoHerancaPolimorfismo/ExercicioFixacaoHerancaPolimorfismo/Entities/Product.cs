@@ -1,4 +1,6 @@
-﻿namespace ExercicioFixacaoHerancaPolimorfismo.Entities
+﻿using System.Globalization;
+
+namespace ExercicioFixacaoHerancaPolimorfismo.Entities
 {
     internal class Product
     {
@@ -11,6 +13,13 @@
         {
             Name = name;
             Price = price;
+        }
+
+        public virtual string PriceTag()
+        {
+            return Name
+                + " $ "
+                + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
