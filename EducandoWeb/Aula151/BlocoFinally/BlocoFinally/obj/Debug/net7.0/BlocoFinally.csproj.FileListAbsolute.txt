@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\bin\Debug\net7.0\BlocoFinally.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\bin\Debug\net7.0\BlocoFinally.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\bin\Debug\net7.0\BlocoFinally.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\bin\Debug\net7.0\BlocoFinally.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\bin\Debug\net7.0\BlocoFinally.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\refint\BlocoFinally.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\BlocoFinally.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula151\BlocoFinally\BlocoFinally\obj\Debug\net7.0\ref\BlocoFinally.dll

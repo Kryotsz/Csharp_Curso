@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula150\TryCatch\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll

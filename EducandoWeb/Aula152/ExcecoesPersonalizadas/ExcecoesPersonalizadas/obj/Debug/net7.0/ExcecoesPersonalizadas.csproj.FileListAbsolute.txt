@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net7.0\ExcecoesPersonalizadas.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\refint\ExcecoesPersonalizadas.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula152\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net7.0\ref\ExcecoesPersonalizadas.dll
