@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net7.0\Directory_DirectoryInfo.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net7.0\Directory_DirectoryInfo.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net7.0\Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net7.0\Directory_DirectoryInfo.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\bin\Debug\net7.0\Directory_DirectoryInfo.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\refint\Directory_DirectoryInfo.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\Directory_DirectoryInfo.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0199\Directory_DirectoryInfo\Directory_DirectoryInfo\obj\Debug\net7.0\ref\Directory_DirectoryInfo.dll

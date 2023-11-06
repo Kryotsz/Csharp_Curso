@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net7.0\StreamWriterExemplo.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net7.0\StreamWriterExemplo.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net7.0\StreamWriterExemplo.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net7.0\StreamWriterExemplo.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\bin\Debug\net7.0\StreamWriterExemplo.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\refint\StreamWriterExemplo.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\StreamWriterExemplo.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0198\StreamWriterExemplo\StreamWriterExemplo\obj\Debug\net7.0\ref\StreamWriterExemplo.dll
