@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net7.0\SolucaoSemInterface.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net7.0\SolucaoSemInterface.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net7.0\SolucaoSemInterface.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net7.0\SolucaoSemInterface.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\bin\Debug\net7.0\SolucaoSemInterface.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\refint\SolucaoSemInterface.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\SolucaoSemInterface.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0204\SolucaoSemInterface\SolucaoSemInterface\obj\Debug\net7.0\ref\SolucaoSemInterface.dll
