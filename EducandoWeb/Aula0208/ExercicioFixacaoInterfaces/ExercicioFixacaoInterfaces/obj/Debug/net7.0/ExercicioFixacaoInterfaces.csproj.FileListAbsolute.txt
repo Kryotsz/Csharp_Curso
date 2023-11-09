@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\bin\Debug\net7.0\ExercicioFixacaoInterfaces.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\bin\Debug\net7.0\ExercicioFixacaoInterfaces.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\bin\Debug\net7.0\ExercicioFixacaoInterfaces.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\bin\Debug\net7.0\ExercicioFixacaoInterfaces.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\bin\Debug\net7.0\ExercicioFixacaoInterfaces.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\refint\ExercicioFixacaoInterfaces.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ExercicioFixacaoInterfaces.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0208\ExercicioFixacaoInterfaces\ExercicioFixacaoInterfaces\obj\Debug\net7.0\ref\ExercicioFixacaoInterfaces.dll
