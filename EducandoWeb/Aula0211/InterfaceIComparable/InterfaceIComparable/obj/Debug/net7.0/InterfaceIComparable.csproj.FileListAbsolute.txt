@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\refint\InterfaceIComparable.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0211\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\ref\InterfaceIComparable.dll
