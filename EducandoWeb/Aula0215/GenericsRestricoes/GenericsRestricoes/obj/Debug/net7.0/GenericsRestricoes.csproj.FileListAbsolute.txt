@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\bin\Debug\net7.0\GenericsRestricoes.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\bin\Debug\net7.0\GenericsRestricoes.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\bin\Debug\net7.0\GenericsRestricoes.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\bin\Debug\net7.0\GenericsRestricoes.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\bin\Debug\net7.0\GenericsRestricoes.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\refint\GenericsRestricoes.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\GenericsRestricoes.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0215\GenericsRestricoes\GenericsRestricoes\obj\Debug\net7.0\ref\GenericsRestricoes.dll

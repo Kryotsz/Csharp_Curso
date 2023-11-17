@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\bin\Debug\net7.0\GenericsExemplos.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\bin\Debug\net7.0\GenericsExemplos.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\bin\Debug\net7.0\GenericsExemplos.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\bin\Debug\net7.0\GenericsExemplos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\bin\Debug\net7.0\GenericsExemplos.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\refint\GenericsExemplos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\GenericsExemplos.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0213\GenericsExemplos\GenericsExemplos\obj\Debug\net7.0\ref\GenericsExemplos.dll
