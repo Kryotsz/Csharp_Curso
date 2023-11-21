@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net7.0\GetHashCode_Equals.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\refint\GetHashCode_Equals.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\GetHashCode_Equals.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0216\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net7.0\ref\GetHashCode_Equals.dll
