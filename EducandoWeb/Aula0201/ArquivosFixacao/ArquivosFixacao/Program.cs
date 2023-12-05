@@ -14,7 +14,7 @@ try
     // caminho do arquivo para escrita (arquivo destino)
     string targetFilePath = targetFolderPath + @"\summary.csv";
     // variável de controle para criar a pasta caso não exista
-    bool criarPasta = true;
+    bool createFolder = true;
 
     // lista todas as pastas que existem no caminho informado
     IEnumerable<string> folders = Directory.EnumerateDirectories(sourceFolderPath, "*.*", SearchOption.AllDirectories);
@@ -25,12 +25,12 @@ try
         if (s == targetFolderPath)
         {
             // ela não precisa ser criada pois já existe
-            criarPasta = false;
+            createFolder = false;
         }
     }
 
     // se a variável for verdadeira, significa que a pasta não existe, portanto deve ser criada
-    if (criarPasta == true)
+    if (createFolder == true)
     {
         // cria a pasta de destino
         Directory.CreateDirectory(targetFolderPath);

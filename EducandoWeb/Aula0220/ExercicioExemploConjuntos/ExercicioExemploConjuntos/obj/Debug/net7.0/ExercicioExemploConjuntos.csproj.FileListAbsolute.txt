@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\bin\Debug\net7.0\ExercicioExemploConjuntos.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\bin\Debug\net7.0\ExercicioExemploConjuntos.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\bin\Debug\net7.0\ExercicioExemploConjuntos.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\bin\Debug\net7.0\ExercicioExemploConjuntos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\bin\Debug\net7.0\ExercicioExemploConjuntos.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\refint\ExercicioExemploConjuntos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ExercicioExemploConjuntos.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0220\ExercicioExemploConjuntos\ExercicioExemploConjuntos\obj\Debug\net7.0\ref\ExercicioExemploConjuntos.dll

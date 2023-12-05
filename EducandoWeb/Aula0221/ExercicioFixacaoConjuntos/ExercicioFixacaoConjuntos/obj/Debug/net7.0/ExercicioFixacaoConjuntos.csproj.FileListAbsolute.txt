@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\bin\Debug\net7.0\ExercicioFixacaoConjuntos.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\bin\Debug\net7.0\ExercicioFixacaoConjuntos.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\bin\Debug\net7.0\ExercicioFixacaoConjuntos.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\bin\Debug\net7.0\ExercicioFixacaoConjuntos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\bin\Debug\net7.0\ExercicioFixacaoConjuntos.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\refint\ExercicioFixacaoConjuntos.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ExercicioFixacaoConjuntos.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0221\ExercicioFixacaoConjuntos\ExercicioFixacaoConjuntos\obj\Debug\net7.0\ref\ExercicioFixacaoConjuntos.dll
