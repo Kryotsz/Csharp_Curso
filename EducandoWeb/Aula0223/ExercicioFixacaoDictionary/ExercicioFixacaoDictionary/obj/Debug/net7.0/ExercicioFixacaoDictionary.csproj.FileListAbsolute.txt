@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\bin\Debug\net7.0\ExercicioFixacaoDictionary.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\bin\Debug\net7.0\ExercicioFixacaoDictionary.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\bin\Debug\net7.0\ExercicioFixacaoDictionary.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\bin\Debug\net7.0\ExercicioFixacaoDictionary.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\bin\Debug\net7.0\ExercicioFixacaoDictionary.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\refint\ExercicioFixacaoDictionary.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ExercicioFixacaoDictionary.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0223\ExercicioFixacaoDictionary\ExercicioFixacaoDictionary\obj\Debug\net7.0\ref\ExercicioFixacaoDictionary.dll
