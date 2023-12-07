@@ -19,6 +19,7 @@ class Program
         //}
 
         // utilizando Predicate (Predicate é um delegate, ou seja, referência para uma função)
+        // Predicate representa um método que recebe um objeto do tipo T e retorna um valor booleano
         list.RemoveAll(ProductTest);
         foreach (Product p in list)
         {
