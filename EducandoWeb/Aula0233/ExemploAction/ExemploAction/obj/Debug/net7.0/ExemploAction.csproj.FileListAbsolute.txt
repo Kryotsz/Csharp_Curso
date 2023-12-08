@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\bin\Debug\net7.0\ExemploAction.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\bin\Debug\net7.0\ExemploAction.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\bin\Debug\net7.0\ExemploAction.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\bin\Debug\net7.0\ExemploAction.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\bin\Debug\net7.0\ExemploAction.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\refint\ExemploAction.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ExemploAction.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0233\ExemploAction\ExemploAction\obj\Debug\net7.0\ref\ExemploAction.dll
