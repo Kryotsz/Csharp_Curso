@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net7.0\ExercicioResolvidoLINQ.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net7.0\ExercicioResolvidoLINQ.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net7.0\ExercicioResolvidoLINQ.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net7.0\ExercicioResolvidoLINQ.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net7.0\ExercicioResolvidoLINQ.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\refint\ExercicioResolvidoLINQ.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ExercicioResolvidoLINQ.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0241\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net7.0\ref\ExercicioResolvidoLINQ.dll
