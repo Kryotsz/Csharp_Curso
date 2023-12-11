@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\bin\Debug\net7.0\LINQcomSQL.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\bin\Debug\net7.0\LINQcomSQL.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\bin\Debug\net7.0\LINQcomSQL.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\bin\Debug\net7.0\LINQcomSQL.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\bin\Debug\net7.0\LINQcomSQL.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\refint\LINQcomSQL.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\LINQcomSQL.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0240\LINQcomSQL\LINQcomSQL\obj\Debug\net7.0\ref\LINQcomSQL.dll
