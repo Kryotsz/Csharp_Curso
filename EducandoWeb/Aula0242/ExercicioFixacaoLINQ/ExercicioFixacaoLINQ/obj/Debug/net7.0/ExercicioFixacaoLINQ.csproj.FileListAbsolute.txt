@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\net7.0\ExercicioFixacaoLINQ.exe
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\net7.0\ExercicioFixacaoLINQ.deps.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\net7.0\ExercicioFixacaoLINQ.runtimeconfig.json
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\net7.0\ExercicioFixacaoLINQ.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\net7.0\ExercicioFixacaoLINQ.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\refint\ExercicioFixacaoLINQ.dll
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.pdb
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ExercicioFixacaoLINQ.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\EducandoWeb\Aula0242\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\net7.0\ref\ExercicioFixacaoLINQ.dll
