@@ -17,11 +17,13 @@ namespace WebApp.Identity.Controllers
     {
         private readonly UserManager<MyUser> _userManager;
         private readonly IUserClaimsPrincipalFactory<MyUser> _userClaimsPrincipalFactory;
+        private readonly SignInManager<MyUser> _signInManager;
 
-        public HomeController(UserManager<MyUser> userManager, IUserClaimsPrincipalFactory<MyUser> userClaimsPrincipalFactory)
+        public HomeController(UserManager<MyUser> userManager, IUserClaimsPrincipalFactory<MyUser> userClaimsPrincipalFactory, SignInManager<MyUser> signInManager)
         {
             _userManager = userManager;
             _userClaimsPrincipalFactory = userClaimsPrincipalFactory;
+            _signInManager = signInManager;
         }
 
         public IActionResult Index()
@@ -50,7 +52,7 @@ namespace WebApp.Identity.Controllers
                     return RedirectToAction("About");
                 }
 
-                ModelState.AddModelError("", "Usuário ou Senha inválidos");
+                ModelState.AddModelError("", "Sorry, we couldn't find an account with that Username and Password");
             }
 
             return View();
@@ -90,6 +92,74 @@ namespace WebApp.Identity.Controllers
         public async Task<IActionResult> Register()
         {
             return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(ForgotPasswordModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = await _userManager.FindByEmailAsync(model.Email);
+
+                if (user != null)
+                {
+                    var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+                    var resetURL = Url.Action("ResetPassword", "Home",
+                        new { token = token, email = model.Email }, Request.Scheme);
+
+                    System.IO.File.WriteAllText("resetLink.txt", resetURL);
+
+                    return View("Success");
+                }
+                else
+                {
+
+                }
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> ForgotPassword()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ResetPassword(ResetPasswordModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = await _userManager.FindByEmailAsync(model.Email);
+
+                if (user != null)
+                {
+                    var result = await _userManager.ResetPasswordAsync(user, model.Token, model.Password);
+
+                    if (!result.Succeeded)
+                    {
+                        foreach (var erro in result.Errors)
+                        {
+                            ModelState.AddModelError("", erro.Description);
+                        }
+
+                        return View();
+                    }
+
+                    return View("Success");
+                }
+
+                ModelState.AddModelError("", "Invalid Request");
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> ResetPassword(string token, string email)
+        {
+            return View(new ResetPasswordModel { Token = token, Email = email });
         }
 
         [HttpGet]
