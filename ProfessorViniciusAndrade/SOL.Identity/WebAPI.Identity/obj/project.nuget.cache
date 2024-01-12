@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VEOgPVvgKzq2lYYaL8bKwadjl1HL25QyhaWmWn9bY+Fv3j6uLfnThZ0rUt216b17ER+Ci2xQb+0BV+k7Fg07+g==",
+  "dgSpecHash": "QVjlZivLQeVLqWTzyf6gDrAejG3Cmwt1RvXJPe/0RVrrMSs11oBgjwIW6T/gbulaLnB8pMpemgt1NiB4Z3CNxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Desktop\\Igor\\Repositorios\\Csharp_Curso\\ProfessorViniciusAndrade\\SOL.Identity\\WebAPI.Identity\\WebAPI.Identity.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
