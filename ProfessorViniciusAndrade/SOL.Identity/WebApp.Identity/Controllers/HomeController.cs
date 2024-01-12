@@ -36,55 +36,8 @@ namespace WebApp.Identity.Controllers
             return View();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Login(LoginModel model)
-        {
-            if (ModelState.IsValid)
-            {
-                var user = await _userManager.FindByNameAsync(model.UserName);
-
-                if (user != null && !await _userManager.IsLockedOutAsync(user))
-                {
-                    if (await _userManager.CheckPasswordAsync(user, model.Password))
-                    {
-                        if (!await _userManager.IsEmailConfirmedAsync(user))
-                        {
-                            ModelState.AddModelError("", "E-mail is not valid!");
-                            return View();
-                        }
-
-                        await _userManager.ResetAccessFailedCountAsync(user);
-
-                        var principal = await _userClaimsPrincipalFactory.CreateAsync(user);
-
-                        await HttpContext.SignInAsync("Identity.Application", principal);
-
-                        return RedirectToAction("About");
-                    }
-
-                    await _userManager.AccessFailedAsync(user);
-
-                    if (await _userManager.IsLockedOutAsync(user))
-                    {
-                        // Send email to change password
-                    }
-                }
-
-                if (await _userManager.IsLockedOutAsync(user))
-                {
-                    ModelState.AddModelError("", "This account has been blocked due to many failed login attempts");
-                }
-                else
-                {
-                    ModelState.AddModelError("", "Sorry, we couldn't find an account with that Username and Password");
-                }
-            }
-
-            return View();
-        }
-
         [HttpGet]
-        public async Task<IActionResult> Login()
+        public async Task<IActionResult> Register()
         {
             return View();
         }
@@ -110,7 +63,7 @@ namespace WebApp.Identity.Controllers
                     if (result.Succeeded)
                     {
                         var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
-                        var emailConfirmation = Url.Action("ConfirmEmailAddress", "Home", 
+                        var emailConfirmation = Url.Action("ConfirmEmailAddress", "Home",
                             new { token = token, email = user.Email }, Request.Scheme);
 
                         System.IO.File.WriteAllText("emailConfirmation.txt", emailConfirmation);
@@ -151,7 +104,75 @@ namespace WebApp.Identity.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Register()
+        public async Task<IActionResult> Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = await _userManager.FindByNameAsync(model.UserName);
+
+                if (user != null && !await _userManager.IsLockedOutAsync(user))
+                {
+                    if (await _userManager.CheckPasswordAsync(user, model.Password))
+                    {
+                        if (!await _userManager.IsEmailConfirmedAsync(user))
+                        {
+                            ModelState.AddModelError("", "E-mail is not valid!");
+                            return View();
+                        }
+
+                        await _userManager.ResetAccessFailedCountAsync(user);
+
+                        if (await _userManager.GetTwoFactorEnabledAsync(user))
+                        {
+                            var validator = await _userManager.GetValidTwoFactorProvidersAsync(user);
+
+                            if (validator.Contains("Email"))
+                            {
+                                var token = await _userManager.GenerateTwoFactorTokenAsync(user, "Email");
+                                System.IO.File.WriteAllText("email2fa.txt", token);
+
+                                await HttpContext.SignInAsync(IdentityConstants.TwoFactorUserIdScheme, Store2FA(user.Id, "Email"));
+
+                                return RedirectToAction("TwoFactor");
+                            }
+                        }
+
+                        var principal = await _userClaimsPrincipalFactory.CreateAsync(user);
+
+                        await HttpContext.SignInAsync(IdentityConstants.ApplicationScheme, principal);
+
+                        return RedirectToAction("About");
+                    }
+
+                    await _userManager.AccessFailedAsync(user);
+
+                    if (await _userManager.IsLockedOutAsync(user))
+                    {
+                        // Send email to change password
+                    }
+                }
+
+                if (await _userManager.IsLockedOutAsync(user))
+                {
+                    ModelState.AddModelError("", "This account has been blocked due to many failed login attempts");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Sorry, we couldn't find an account with that Username and Password");
+                }
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> ForgotPassword()
         {
             return View();
         }
@@ -175,7 +196,7 @@ namespace WebApp.Identity.Controllers
                 }
                 else
                 {
-
+                    ModelState.AddModelError("", "Sorry, we couldn't find an account with that Username");
                 }
             }
 
@@ -183,9 +204,9 @@ namespace WebApp.Identity.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> ForgotPassword()
+        public async Task<IActionResult> ResetPassword(string token, string email)
         {
-            return View();
+            return View(new ResetPasswordModel { Token = token, Email = email });
         }
 
         [HttpPost]
@@ -219,9 +240,57 @@ namespace WebApp.Identity.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> ResetPassword(string token, string email)
+        public async Task<IActionResult> TwoFactor()
         {
-            return View(new ResetPasswordModel { Token = token, Email = email });
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> TwoFactor(TwoFactorModel model)
+        {
+            var result = await HttpContext.AuthenticateAsync(IdentityConstants.TwoFactorUserIdScheme);
+            if (!result.Succeeded)
+            {
+                ModelState.AddModelError("", "Invalid Token");
+                return View();
+            }
+
+            if (ModelState.IsValid)
+            {
+                var user = await _userManager.FindByIdAsync(result.Principal.FindFirstValue("sub"));
+                if (user != null)
+                {
+                    var isValid = await _userManager.VerifyTwoFactorTokenAsync(user, result.Principal.FindFirstValue("amr"), model.Token);
+
+                    if (isValid)
+                    {
+                        await HttpContext.SignOutAsync(IdentityConstants.TwoFactorUserIdScheme);
+
+                        var claimsPrincipal = await _userClaimsPrincipalFactory.CreateAsync(user);
+                        await HttpContext.SignInAsync(IdentityConstants.ApplicationScheme, claimsPrincipal);
+
+                        return RedirectToAction("About");
+                    }
+
+                    ModelState.AddModelError("", "Invalid Token");
+                    return View();
+                }
+
+                ModelState.AddModelError("", "Invalid Request");
+            }
+
+            return View();
+        }
+
+        public ClaimsPrincipal Store2FA(string userId, string provider)
+        {
+            var identity = new ClaimsIdentity(new List<Claim>
+            {
+                new Claim("sub", userId),
+                new Claim("amr", provider)
+            }, IdentityConstants.TwoFactorUserIdScheme);
+
+            return new ClaimsPrincipal(identity);
         }
 
         [HttpGet]

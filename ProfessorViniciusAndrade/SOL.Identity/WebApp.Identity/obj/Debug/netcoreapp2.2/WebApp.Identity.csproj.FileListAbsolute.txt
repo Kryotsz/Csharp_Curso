@@ -65,3 +65,4 @@ C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\ProfessorViniciusAndrade\SO
 C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\ProfessorViniciusAndrade\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\ProfessorViniciusAndrade\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ResetPassword.g.cshtml.cs
 C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\ProfessorViniciusAndrade\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\ForgotPassword.g.cshtml.cs
+C:\Users\Igor\Desktop\Igor\Repositorios\Csharp_Curso\ProfessorViniciusAndrade\SOL.Identity\WebApp.Identity\obj\Debug\netcoreapp2.2\Razor\Views\Home\TwoFactor.g.cshtml.cs
