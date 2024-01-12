@@ -10,10 +10,7 @@ namespace WebApp.Identity.Entities
 {
     public class MyUserClaimsPrincipalFactory : UserClaimsPrincipalFactory<MyUser>
     {
-        public MyUserClaimsPrincipalFactory(UserManager<MyUser> userManager, IOptions<IdentityOptions> optionsAccessor) : base(userManager, optionsAccessor)
-        {
-
-        }
+        public MyUserClaimsPrincipalFactory(UserManager<MyUser> userManager, IOptions<IdentityOptions> optionsAccessor) : base(userManager, optionsAccessor) { }
 
         protected override async Task<ClaimsIdentity> GenerateClaimsAsync(MyUser user)
         {
