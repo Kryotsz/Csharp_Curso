@@ -43,22 +43,41 @@ namespace WebApp.Identity.Controllers
             {
                 var user = await _userManager.FindByNameAsync(model.UserName);
 
-                if (user != null && await _userManager.CheckPasswordAsync(user, model.Password))
+                if (user != null && !await _userManager.IsLockedOutAsync(user))
                 {
-                    if (!await _userManager.IsEmailConfirmedAsync(user))
+                    if (await _userManager.CheckPasswordAsync(user, model.Password))
                     {
-                        ModelState.AddModelError("", "E-mail is not valid!");
-                        return View();
+                        if (!await _userManager.IsEmailConfirmedAsync(user))
+                        {
+                            ModelState.AddModelError("", "E-mail is not valid!");
+                            return View();
+                        }
+
+                        await _userManager.ResetAccessFailedCountAsync(user);
+
+                        var principal = await _userClaimsPrincipalFactory.CreateAsync(user);
+
+                        await HttpContext.SignInAsync("Identity.Application", principal);
+
+                        return RedirectToAction("About");
                     }
 
-                    var principal = await _userClaimsPrincipalFactory.CreateAsync(user);
+                    await _userManager.AccessFailedAsync(user);
 
-                    await HttpContext.SignInAsync("Identity.Application", principal);
-
-                    return RedirectToAction("About");
+                    if (await _userManager.IsLockedOutAsync(user))
+                    {
+                        // Send email to change password
+                    }
                 }
 
-                ModelState.AddModelError("", "Sorry, we couldn't find an account with that Username and Password");
+                if (await _userManager.IsLockedOutAsync(user))
+                {
+                    ModelState.AddModelError("", "This account has been blocked due to many failed login attempts");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Sorry, we couldn't find an account with that Username and Password");
+                }
             }
 
             return View();
