@@ -50,9 +50,19 @@ namespace WebApp.Identity
             );
 
             services.AddIdentity<MyUser, IdentityRole>
-                (options => { options.SignIn.RequireConfirmedEmail = true; })
+                (options =>
+                {
+                    options.SignIn.RequireConfirmedEmail = true;
+
+                    options.Password.RequireDigit = false;
+                    options.Password.RequireNonAlphanumeric = false;
+                    options.Password.RequireLowercase = false;
+                    options.Password.RequireUppercase = false;
+                    options.Password.RequiredLength = 3;
+                })
                 .AddEntityFrameworkStores<MyUserDbContext>()
-                .AddDefaultTokenProviders();
+                .AddDefaultTokenProviders()
+                .AddPasswordValidator<PasswordValidatorRules<MyUser>>();
 
             services.AddScoped<IUserClaimsPrincipalFactory<MyUser>, MyUserClaimsPrincipalFactory>();
 

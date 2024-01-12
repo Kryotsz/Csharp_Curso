@@ -96,6 +96,15 @@ namespace WebApp.Identity.Controllers
 
                         System.IO.File.WriteAllText("emailConfirmation.txt", emailConfirmation);
                     }
+                    else
+                    {
+                        foreach (var error in result.Errors)
+                        {
+                            ModelState.AddModelError("", error.Description);
+                        }
+
+                        return View();
+                    }
                 }
 
                 return View("Success");
@@ -173,9 +182,9 @@ namespace WebApp.Identity.Controllers
 
                     if (!result.Succeeded)
                     {
-                        foreach (var erro in result.Errors)
+                        foreach (var error in result.Errors)
                         {
-                            ModelState.AddModelError("", erro.Description);
+                            ModelState.AddModelError("", error.Description);
                         }
 
                         return View();
