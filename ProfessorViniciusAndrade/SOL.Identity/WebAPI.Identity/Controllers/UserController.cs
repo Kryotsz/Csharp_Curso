@@ -39,16 +39,41 @@ namespace WebAPI.Identity.Controllers
 
         // GET: api/<UserController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IActionResult Get()
         {
-            return new string[] { "value1", "value2" };
+            return Ok(new UserDto());
         }
 
-        // GET api/<UserController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpPost("Login")]
+        public async Task<IActionResult> Login(UserLoginDto userLogin)
         {
-            return "value";
+            try
+            {
+                var user = await _userManager.FindByNameAsync(userLogin.UserName);
+
+                var result = await _signInManager
+                    .CheckPasswordSignInAsync(user, userLogin.Password, false);
+
+                if (result.Succeeded)
+                {
+                    var appUser = await _userManager.Users
+                        .FirstOrDefaultAsync(u => u.NormalizedUserName == user.UserName.ToUpper());
+
+                    var userToReturn = _mapper.Map<UserLoginDto>(appUser);
+
+                    return Ok(new
+                    {
+                        token = GenerateJWToken(appUser).Result,
+                        user = userToReturn
+                    });
+                }
+
+                return Unauthorized();
+            }
+            catch (Exception e)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError, $"ERROR: {e.Message}");
+            }
         }
 
         // POST api/<UserController>
@@ -63,6 +88,7 @@ namespace WebAPI.Identity.Controllers
                 {
                     user = new User
                     {
+                        FullName = userDto.FullName,
                         UserName = userDto.UserName,
                         Email = userDto.UserName
                     };
@@ -75,10 +101,11 @@ namespace WebAPI.Identity.Controllers
                             .FirstOrDefaultAsync(u => u.NormalizedUserName == user.UserName.ToUpper());
 
                         var token = GenerateJWToken(appUser).Result;
-                        var emailConfirmation = Url.Action("ConfirmEmailAddress", "Home",
-                            new { token = token, email = user.Email }, Request.Scheme);
+                        //var emailConfirmation = Url.Action("ConfirmEmailAddress", "Home",
+                        //    new { token = token, email = user.Email }, Request.Scheme);
 
-                        System.IO.File.WriteAllText("emailConfirmation.txt", emailConfirmation);
+                        //System.IO.File.WriteAllText("emailConfirmation.txt", emailConfirmation);
+                        return Ok(token);
                     }
                 }
                 return Unauthorized();
